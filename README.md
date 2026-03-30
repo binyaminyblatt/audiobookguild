@@ -2,6 +2,8 @@
 
 This project provides a Node.js script to scrape audiobook product information from [Audiobook Guild](https://audiobookguild.com/). It extracts details such as author, narrators, genre, series, tropes, and other metadata, and saves the data into a JSON file.
 
+**Disclaimer**: This is hobby code and the data in the dataset is the property of its owners.
+
 ## Features
 
 - Scrapes product data from Audiobook Guild.
@@ -35,6 +37,8 @@ node audiobookguild_scrape.js
 ```
 
 The script will start scraping pages concurrently and will save the collected data into `audiobookguild.json` in the project root directory. If `audiobookguild.json` already exists, the script will load the existing data and update/add new audiobooks.
+
+**Note**: The `audiobookguild.json` dataset is automatically updated daily via a GitHub Actions workflow.
 
 ## Output
 
