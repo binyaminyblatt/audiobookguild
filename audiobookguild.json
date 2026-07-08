@@ -1771,6 +1771,7 @@
     "releaseDate": "2021-08-09T19:59:41.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1796,6 +1797,7 @@
     "releaseDate": "2021-08-09T20:04:31.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1821,6 +1823,7 @@
     "releaseDate": "2021-08-09T20:04:32.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1846,6 +1849,7 @@
     "releaseDate": "2021-09-28T13:38:45.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1871,6 +1875,7 @@
     "releaseDate": "2021-11-17T12:06:58.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1896,6 +1901,7 @@
     "releaseDate": "2022-03-02T15:18:10.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1921,6 +1927,7 @@
     "releaseDate": "2022-05-04T11:25:02.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1946,6 +1953,7 @@
     "releaseDate": "2022-07-06T11:32:40.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -1971,6 +1979,7 @@
     "releaseDate": "2022-10-19T11:10:58.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai"
     ],
     "narrators": [
@@ -3377,6 +3386,7 @@
     "releaseDate": "2025-03-20T11:30:21.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Sword and Sorcery"
     ],
     "narrators": [
@@ -3402,6 +3412,7 @@
     "releaseDate": "2025-10-23T12:06:24.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Sword and Sorcery"
     ],
     "narrators": [
@@ -5252,7 +5263,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2022-11-10T13:12:20.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -5276,7 +5288,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2023-03-23T11:34:42.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -5300,7 +5313,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2023-08-03T10:54:30.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -5324,7 +5338,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2023-12-28T16:06:58.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -5348,7 +5363,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2024-04-18T10:01:33.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -5372,7 +5388,8 @@
     "author": "Logan Jacobs",
     "releaseDate": "2024-06-20T11:19:35.000Z",
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Alyssa Poon",
@@ -12421,6 +12438,7 @@
     "releaseDate": "2025-01-02T11:48:04.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai",
       "Sword and Sorcery"
     ],
@@ -12446,6 +12464,7 @@
     "releaseDate": "2024-08-29T12:05:39.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Portal/Isekai",
       "Sword and Sorcery"
     ],
@@ -14350,7 +14369,8 @@
     "releaseDate": "2021-08-09T20:08:49.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14376,7 +14396,8 @@
     "releaseDate": "2025-02-07T05:26:47.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14402,7 +14423,8 @@
     "releaseDate": "2021-08-09T20:08:51.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14428,7 +14450,8 @@
     "releaseDate": "2021-08-09T20:08:52.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14454,7 +14477,8 @@
     "releaseDate": "2021-08-09T20:08:53.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14480,7 +14504,8 @@
     "releaseDate": "2021-08-09T20:08:55.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14506,7 +14531,8 @@
     "releaseDate": "2021-08-09T20:08:56.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14532,7 +14558,8 @@
     "releaseDate": "2021-08-09T20:08:57.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14558,7 +14585,8 @@
     "releaseDate": "2022-08-13T08:11:05.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -14584,7 +14612,8 @@
     "releaseDate": "2024-03-04T15:26:48.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15854,7 +15883,8 @@
     "releaseDate": "2022-08-18T11:16:09.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15863,7 +15893,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15878,7 +15908,8 @@
     "releaseDate": "2022-09-15T11:59:57.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15887,7 +15918,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15902,7 +15933,8 @@
     "releaseDate": "2022-10-06T11:43:33.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15911,7 +15943,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15926,7 +15958,8 @@
     "releaseDate": "2023-01-19T16:11:02.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15935,7 +15968,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15950,7 +15983,8 @@
     "releaseDate": "2023-03-09T12:22:58.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15959,7 +15993,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15974,7 +16008,8 @@
     "releaseDate": "2021-08-09T20:02:10.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -15983,7 +16018,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -15998,7 +16033,8 @@
     "releaseDate": "2021-08-09T20:09:08.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16007,7 +16043,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16022,7 +16058,8 @@
     "releaseDate": "2021-08-09T20:09:09.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16031,7 +16068,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16046,7 +16083,8 @@
     "releaseDate": "2021-12-16T12:02:26.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16055,7 +16093,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16070,7 +16108,8 @@
     "releaseDate": "2022-01-27T11:29:36.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16079,7 +16118,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16094,7 +16133,8 @@
     "releaseDate": "2022-04-07T11:13:17.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16103,7 +16143,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16118,7 +16158,8 @@
     "releaseDate": "2022-05-05T10:43:06.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16127,7 +16168,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16142,7 +16183,8 @@
     "releaseDate": "2022-07-14T14:17:56.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16151,7 +16193,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -16166,7 +16208,8 @@
     "releaseDate": "2021-08-09T20:09:05.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -16175,7 +16218,7 @@
     "tags": [
       "Quest for Power"
     ],
-    "harem": true,
+    "harem": false,
     "sexyTime": "Hot Damn!"
   },
   {
@@ -18823,6 +18866,7 @@
     "releaseDate": "2026-05-07T10:50:57.000Z",
     "genre": [
       "Fantasy",
+      "GameLit/LitRPG",
       "Sword and Sorcery"
     ],
     "narrators": [
@@ -18939,7 +18983,8 @@
     "releaseDate": "2026-05-30T15:02:36.000Z",
     "genre": [
       "Epic",
-      "Fantasy"
+      "Fantasy",
+      "GameLit/LitRPG"
     ],
     "narrators": [
       "Christopher Boucher",
@@ -19099,7 +19144,7 @@
     "cover": "https://cdn.shopify.com/s/files/1/0572/9681/4267/files/JMM.jpg?v=1783352836",
     "description": "<p><strong>Meddling gods. A magical card system. An apocalypse no one could have predicted.</strong></p>\n<p>Jake is working at the neighborhood market under his apartment when the world ends. He expected nuclear war, a computer virus, or even climate change burning everyone to a crisp to bring about the downfall of civilization. But cruel and arbitrary gods from another world? Who would have guessed that?</p>\n<p>When these cruel gods shuffled Earth like a deck of cards, nothing was in the same place anymore. Monsters, dungeons, and magical items appear scattered across the globe. And suddenly, everyone has access to a new, strange magical card system that gives them magical powers.</p>\n<p>Jake, wasting his day slacking off in the cooler, as he usually did, found himself alone in a completely new and very dangerous world. Can he learn to survive? Can he collect enough cards and create a good enough deck to fight back against the monsters that have overtaken his former home? And why are these strange people that look a lot like elves knocking on the door of the market he is hiding in and asking to buy some of his goods?</p>\n<p>The gods may have stacked the deck against him, but Jake just might have a few cards up his sleeve that will help him survive.</p>",
     "seriesName": "Jake's Magical Market",
-    "title": "Jake's Magical Market by J.R. Mathews",
+    "title": "Jake's Magical Market",
     "episodeNumber": null,
     "author": "J.R. Mathews",
     "releaseDate": "2026-07-06T17:45:24.000Z",
